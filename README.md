@@ -2,6 +2,8 @@
 
 This project implements gender and age detection using Python and OpenCV. With deep learning techniques, the project can accurately identify the gender and approximate age of a person from a single image of their face.
 
+![Demo Image](jude.jpg)
+
 ### Overview
 
 OpenCV, short for Open Source Computer Vision, is an open-source library that supports real-time image and video processing, as well as analytical capabilities. This project leverages Python OpenCV along with deep learning frameworks like TensorFlow, Caffe, and PyTorch.
